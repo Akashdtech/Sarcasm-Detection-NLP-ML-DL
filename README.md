@@ -1,5 +1,5 @@
 # Sarcasm-Detection-NLP-ML-DL
-This project implements a sarcasm detection pipeline using a Kaggle dataset of news headlines. The pipeline preprocesses text data, performs feature engineering, and applies various machine learning and deep learning models to classify headlines as sarcastic or not. The workflow includes:
+This project implements a sarcasm detection pipeline using a dataset of news headlines. The pipeline preprocesses text data, performs feature engineering, and applies various machine learning and deep learning models to classify headlines as sarcastic or not. The workflow includes:
 
     Data Preprocessing:
         Text cleaning: removal of non-alphanumeric characters and extra whitespace.
